@@ -1,9 +1,9 @@
 # Generating Accurate and Diverse Audio Captions through Variational Autoencoder Framework
 This is the official code implementation of the paper “**Generating Accurate and Diverse Audio Captions through Variational Autoencoder Framework**”. The pipeline of the method is shown below
-<center>
-    <img src="Caption.png" alt="example">
-    <p>The architecture of our proposed AC-VAE.</p>
-</center>
+<p align="center">
+  <img src="Caption.png" alt="Image" width="400"/>
+</p>
+<p align="center">The architecture of our proposed AC-VAE.</p>
 
 ## Abstract
 Generating both diverse and accurate descriptions is an essential goal in the audio captioning task. Traditional methods mainly focus on improving the accuracy of the generated captions but ignore their diversity. In contrast, recent methods have considered generating diverse captions for a given audio clip, but with the potential trade-off of compromising caption accuracy. 
